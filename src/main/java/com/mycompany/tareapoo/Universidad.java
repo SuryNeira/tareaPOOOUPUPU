@@ -1,0 +1,24 @@
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
+ */
+package com.mycompany.tareapoo;
+
+/**
+ *
+ * @author suris
+ */
+public class Universidad {
+    
+    public boolean agregarCarrera(){
+        return false;
+        
+    }
+    
+    public boolean agregarEstudiante(){
+        return false;
+        
+    }
+    public E
+    
+}
